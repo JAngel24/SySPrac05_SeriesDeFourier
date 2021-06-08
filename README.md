@@ -1,0 +1,1 @@
+# SySPrac05_SeriesDeFourier
